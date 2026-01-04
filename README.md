@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there! I'm Rohit Mahato
 
-<!--
-**rohitt-mahato/rohitt-mahato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate **Web Development Student** focused on building clean, interactive, and user-friendly web applications. I love solving logic puzzles, which led me to build my first interactive game, **Simon Says**.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack:
+* **Languages:** HTML5, CSS3, JavaScript (ES6+)
+* **Tools:** Git, GitHub, VS Code
+* **Currently Learning:** React.js & Backend Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Key Project:
+* **[Simon Says Game](rohitt-mahato.github.io/Simon-Say-Game/):** A memory-based game featuring persistent high scores using `localStorage` and dynamic UI updates.
+
+### 📫 Let's Connect:
+* **LinkedIn:** https://www.linkedin.com/in/rohittmahato/
+
+
