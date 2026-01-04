@@ -8,7 +8,7 @@ I am a passionate **Web Development Student** focused on building clean, interac
 * **Currently Learning:** React.js & Backend Development
 
 ### 🏆 Key Project:
-* [Simon Says Game]https://rohitt-mahato.github.io/Simon-Say-Game/: A memory-based game featuring persistent high scores using `localStorage` and dynamic UI updates.
+* [Simon Says Game]([https://rohitt-mahato.github.io/Simon-Say-Game/]): A memory-based game featuring persistent high scores using `localStorage` and dynamic UI updates.
 
 ### 📫 Let's Connect:
 * LinkedIn: https://www.linkedin.com/in/rohittmahato/
